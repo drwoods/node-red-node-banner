@@ -1,0 +1,17 @@
+{
+    "name": "node-red-node-banner",
+    "version": "0.0.1",
+    "description": "A sample showing how to customize the Node-RED banner",
+    "license": "Apache",
+    "repository"   : {
+        "type":"git",
+        "url":"https://github.com/drwoods/node-red-node-banner.git"
+    },
+    "keywords": [
+        "node-red",
+        "banner"
+    ],
+    "author": {
+        "name": "Donald Woods"
+    }
+}
