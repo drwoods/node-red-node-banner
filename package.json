@@ -1,17 +1,21 @@
 {
-    "name": "node-red-node-banner",
+    "name": "node-red-theme-raspi",
     "version": "0.0.1",
-    "description": "A sample showing how to customize the Node-RED banner",
+    "description": "A sample showing how to customize the Node-RED banner for Raspberry Pi users",
     "license": "Apache",
-    "repository"   : {
+    "repository": {
         "type":"git",
-        "url":"https://github.com/drwoods/node-red-node-banner.git"
+        "url":"https://github.com/drwoods/node-red-theme-raspi.git"
+    },
+    "engines": {
+        "node": ">=0.8 <0.12"
     },
     "keywords": [
         "node-red",
-        "banner"
+        "theme",
+		"raspberry pi"
     ],
-    "author": {
-        "name": "Donald Woods"
-    }
+    "contributors": [
+        {"name": "Donald Woods"}
+    ]
 }
